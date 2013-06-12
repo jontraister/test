@@ -1,0 +1,2 @@
+[26-Aug-2012 09:36:29] PHP Warning:  Unknown: write failed: No space left on device (28) in Unknown on line 0
+[26-Aug-2012 09:36:29] PHP Warning:  Unknown: Failed to write session data (files). Please verify that the current setting of session.save_path is correct (/tmp) in Unknown on line 0

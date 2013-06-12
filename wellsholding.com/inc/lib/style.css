@@ -1,0 +1,237 @@
+@charset "utf-8";
+/* CSS Document */
+.normalinput{
+	height:14px;
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;
+	width:270px;
+	color:#353636;
+}
+.longtext{
+	width: 260px;
+    border: 1px solid #333;
+	padding:2px; letter-spacing:.05em;
+}
+.longtextarea{
+	width:500px;
+	height:200px;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:12px;
+	padding:2px;
+}
+.lable{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:13px;font-weight:bold;padding-right:10px; padding-right:10px; color:#353636; text-decoration:none;
+}
+.lableheading{
+	font-family:Verdana, Arial, Helvetica, sans-serif; font-size:16px;font-weight:bold;color:#353636;padding:10px 5px;
+}
+.grid {border:1px solid #cedbe4;}
+.grid a:link { text-decoration:none;}
+.grid a:hover { text-decoration:underline;}
+.grid a:active { text-decoration:none;} 
+.grid tr{ height:20px;}
+.head{
+	background-color:#353636; color:#ffffff; font:12px Arial; padding:8px; font-weight:bold;}
+.row1{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000; vertical-align:middle;
+	padding:2px; height:35px;
+	text-decoration: none;
+	background-color:#FEFEFE;
+	border-bottom:1px solid #CCCCCC;
+	border-top:1px solid #CCCCCC;
+	
+}
+.row2{
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #000000; vertical-align:middle;
+	padding:2px; height:35px;
+	text-decoration: none;
+	 
+	background-color:#EFEFEF;
+	 
+}
+.row1 a:link{ color:#000000; text-decoration:none;}
+.row1 a:hover{ text-decoration:underline; color:#000000;}
+.row1 a:visited{color:#000000; text-decoration:none;}
+.row1 a:active{color:#000000; text-decoration:none;}
+
+.row2 a:link{ color:#000000; text-decoration:none;}
+.row2 a:hover{ text-decoration:underline; color:#000000;}
+.row2 a:visited{color:#000000; text-decoration:none;}
+.row2 a:active{color:#000000; text-decoration:none;}
+
+.row3{
+	background-color:#EFEFEF;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: normal;
+	color: #333355; vertical-align:middle;
+	padding:2px; height:35px;
+	text-decoration: none;
+	 
+}
+
+.smallicon{
+ border:0px;
+}
+.button{
+ background-color:#353636;
+	padding: 2px 5px 2px 5px;
+	border:0px;
+	cursor:pointer;
+	font-size:12px;
+	font-family:Arial, Helvetica, sans-serif;
+	color:#ffffff;
+	border:1px solid #000000;
+}
+
+.error{
+	 
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;	color:#FF0000;
+	padding:6px; text-align:left; font-weight:normal;
+	background-image:url(../../adminicons/warning_16.jpg);
+	background-position:left;
+	background-repeat:no-repeat;
+	text-indent:15px;
+	
+}
+.smallerror{
+	
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:10px;	color:#FFFF33;
+	padding:2px; text-align:left;
+	
+}
+.ok{
+	
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;	color:#73a018;
+	padding:6px; text-align:left; font-weight:normal;
+	background-image:url(../../adminicons/tick_16.jpg);
+	background-position:left;
+	background-repeat:no-repeat;
+	text-indent:15px;
+	
+	
+	
+}
+.ok2{
+	
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:11px;	color:#73a018;
+	  text-align:left; font-weight:normal;
+ 	background-image:url(../../adminicons/right_16.jpg);
+	background-position:left;
+	background-repeat:no-repeat;
+	text-indent:15px;
+	padding:5px;
+	
+	
+	
+}
+.pagename{
+
+    font-family:Arial, Helvetica, sans-serif;
+	font-size: 18px;
+	font-weight: bold;
+	/*color: #00a2ff;*/
+	color: #FFFFFF;
+	text-decoration: none;
+	font-style: normal;
+	line-height: normal;
+	background-color:#999999;
+}
+.menulink{
+background-image:url(../../adminicons/plus_32.jpg);
+background-position:left;
+background-repeat:no-repeat;
+text-indent:40px;
+height:32px;
+	
+	 
+}
+.menulink a{ font-family:Arial, Helvetica, sans-serif;font-size:12px; color:#333333; text-decoration:none; font-weight:bold  }
+.menulink a:hover{ color:#333333; text-decoration:none;  font-family:Arial, Helvetica, sans-serif; }
+
+.viewall{
+background-image:url(../../adminicons/search_32.jpg);
+background-position:left;
+background-repeat:no-repeat;
+text-indent:40px;
+height:32px;
+	
+	 
+}
+.adminfooter{
+font-family:Arial, Helvetica, sans-serif;
+font-size:12px;
+color:#ffffff;
+background-color:#2cace6;
+padding:10px;
+
+}
+.adminfooter a{color:#FFFFFF;text-decoration:none}
+.adminfooter a:hover{color:#CCCCCC;text-decoration:none}
+.viewall a{ font-family:Arial, Helvetica, sans-serif;font-size:12px; color:#333333; text-decoration:none; font-weight:bold  }
+.viewall a:hover{ color:#333333; text-decoration:none;  font-family:Arial, Helvetica, sans-serif; }
+
+
+.menu{ font-family:Arial, Helvetica, sans-serif;text-transform:capitalize;  font-weight:normal;font-size:12px; color:#353636; text-decoration:none; padding:3px;background-color:#2cace6; }
+.menu a { color:#fff; text-decoration:none;font-weight:bold }
+.menu a:hover { color:red; text-decoration:none; }
+
+.show{
+	display:block;
+}
+.hide{
+	display:none;
+}
+.hand{
+	cursor:pointer;
+}
+.red{ color:#FF0000; }
+
+#pagging{
+	 font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#73a018; text-decoration:none; 
+	 height:30px;letter-spacing:1px; text-align:center;
+}
+#pagging a:link{font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#73a018; text-decoration:underline; }
+#pagging a:visited{font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#73a018; text-decoration:none; }
+#pagging a:hover{font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#73a018; text-decoration:underline; }
+#pagging a:active{font-family:Arial, Helvetica, sans-serif; font-size: 12px; color:#A0D700; text-decoration:underline; }
+
+.working{
+	position:fixed;
+	left:1px;
+	bottom:1px;
+	border:1px solid #FF0000;
+	background-color:#FFFF99;
+	font:Verdana, Arial, Helvetica, sans-serif;
+	color:#FF0000;;
+	padding:4px;
+	padding-right:15px;
+	font-weight:bold;
+	
+}
+.IconsTable{ border:0px; }
+.IconsTable div { width:258px; height:79px; cursor:pointer; }
+.IconsTable div:hover { background-position:bottom;  }
+.customor{ background:url(../../adminicons/customer.gif); no-repeat top; }
+.order{ background:url(../../adminicons/order.gif); no-repeat top; }
+.prods{ background:url(../../adminicons/prods.gif); no-repeat top; }
+.cat{ background:url(../../adminicons/cat.gif); no-repeat top; }
+.subcat{ background:url(../../adminicons/subcat.gif); no-repeat top; }
+.cms{ background:url(../../adminicons/cms.gif); no-repeat top; }
+.land{ background:url(../../adminicons/land.gif); no-repeat top; }
+.pass{ background:url(../../adminicons/pass.gif); no-repeat top; }
+.logout{ background:url(../../adminicons/logout.gif); no-repeat top; }
+.sub2{ background:url(../../adminicons/subcat2.gif); no-repeat top; }
+
+
+

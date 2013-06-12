@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<!--
+ * FCKeditor - The text editor for Internet - http://www.fckeditor.net
+ * Copyright (C) 2003-2009 Frederico Caldeira Knabben
+ *
+ * == BEGIN LICENSE ==
+ *
+ * Licensed under the terms of any of the following licenses at your
+ * choice:
+ *
+ *  - GNU General Public License Version 2 or later (the "GPL")
+ *    http://www.gnu.org/licenses/gpl.html
+ *
+ *  - GNU Lesser General Public License Version 2.1 or later (the "LGPL")
+ *    http://www.gnu.org/licenses/lgpl.html
+ *
+ *  - Mozilla Public License Version 1.1 or later (the "MPL")
+ *    http://www.mozilla.org/MPL/MPL-1.1.html
+ *
+ * == END LICENSE ==
+ *
+ * This is the sample style definitions file. It makes the styles combo
+ * completely customizable.
+ *
+ * See FCKConfig.StylesXmlPath in the configuration file.
+-->
+
+<Styles>
+
+	<!-- Block Styles -->
+
+	<!--
+	# These styles are already available in the "Format" combo, so they are not
+	# needed here by default.
+
+	<Style name="Heading 1" element="h1" />
+	<Style name="Heading 2" element="h2" />
+	<Style name="Heading 3" element="h3" />
+	<Style name="Heading 4" element="h4" />
+	<Style name="Heading 5" element="h5" />
+	<Style name="Heading 6" element="h6" />
+	<Style name="Paragraph" element="p" />
+	<Style name="Document Block" element="div" />
+	<Style name="Preformatted Text" element="pre" />
+	<Style name="Address" element="address" />
+	-->
+	
+	
+		<Style name="Main TopHeading1" element="span">
+		<Style name="font-family" value="Verdana" />
+		<Style name="font-size" value="25px" />
+		<Style name="color" value="#000000" />
+		<Style name="padding-top" value="5px" />
+		<Style name="padding-bottom" value="5px" />
+		<Style name="font-weight" value="bolder" />
+		<Style name="text-align" value="left" />
+	    </Style>
+		
+		<Style name="Main TopHeading2" element="span">
+		<Style name="font-family" value="Verdana" />
+		<Style name="font-size" value="25px" />
+		<Style name="color" value="#333333" />
+		<Style name="padding-top" value="5px" />
+		<Style name="padding-bottom" value="5px" />
+		<Style name="font-weight" value="bolder" />
+		<Style name="text-align" value="left" />
+	    </Style>
+		
+		<Style name="Main TopHeading3" element="span">
+		<Style name="font-family" value="Verdana" />
+		<Style name="font-size" value="25px" />
+		<Style name="color" value="#4d6aaf" />
+		<Style name="padding-top" value="5px" />
+		<Style name="padding-bottom" value="5px" />
+		<Style name="font-weight" value="bolder" />
+		<Style name="text-align" value="left" />
+	    </Style>
+		
+		<Style name="Sub Heading1" element="span">
+		<Style name="font-family" value="Verdana" />
+		<Style name="font-size" value="14px" />
+		<Style name="color" value="#a9cdea" />
+		<Style name="font-weight" value="bold" />
+		<Style name="text-align" value="justify" />
+	    </Style>
+	
+		
+		<Style name="Sub Heading2" element="span">
+		<Style name="font-family" value="Verdana" />
+		<Style name="font-size" value="14px" />
+		<Style name="color" value="#f48f39" />
+		<Style name="font-weight" value="bold" />
+		<Style name="text-align" value="justify" />
+	    </Style>
+		
+		<Style name="Sub Heading3" element="span">
+		<Style name="font-family" value="Verdana" />
+		<Style name="font-size" value="14px" />
+		<Style name="color" value="#5c57a2" />
+		<Style name="font-weight" value="bold" />
+		<Style name="text-align" value="justify" />
+	    </Style>
+		
+		<Style name="Sub Heading4" element="span">
+		<Style name="font-family" value="Verdana" />
+		<Style name="font-size" value="14px" />
+		<Style name="color" value="#4d6aaf" />
+		<Style name="font-weight" value="bold" />
+		<Style name="text-align" value="justify" />
+	    </Style>
+		
+		<Style name="Sub Heading5" element="span">
+		<Style name="font-family" value="Verdana" />
+		<Style name="font-size" value="14px" />
+		<Style name="color" value="#525252" />
+		<Style name="font-weight" value="bold" />
+		<Style name="text-align" value="justify" />
+	    </Style>
+		
+		<Style name="Body Text1" element="span">
+		<Style name="font-family" value="Verdana" />
+		<Style name="font-size" value="12px" />
+		<Style name="color" value="#000000" />
+		<Style name="font-weight" value="normal" />
+		<Style name="text-align" value="justify" />
+	    </Style>
+		
+    	<Style name="Body Text2" element="span">
+		<Style name="font-family" value="Verdana" />
+		<Style name="font-size" value="12px" />
+		<Style name="color" value="#525252" />
+		<Style name="font-weight" value="normal" />
+		<Style name="text-align" value="justify" />
+	    </Style>
+		
+		<Style name="Body Text1B" element="span">
+		<Style name="font-family" value="Verdana" />
+		<Style name="font-size" value="12px" />
+		<Style name="color" value="#000000" />
+		<Style name="font-weight" value="bloder" />
+		<Style name="text-align" value="justify" />
+	    </Style>
+		
+		<Style name="Body Text2B" element="span">
+		<Style name="font-family" value="Verdana" />
+		<Style name="font-size" value="12px" />
+		<Style name="color" value="#525252" />
+		<Style name="font-weight" value="bloder" />
+		<Style name="text-align" value="justify" />
+	    </Style>
+		
+
+</Styles>
